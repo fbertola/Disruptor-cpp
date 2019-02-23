@@ -1,5 +1,7 @@
 #pragma once
 
+#import <vector>
+
 #include "Disruptor/ITaskScheduler.h"
 
 

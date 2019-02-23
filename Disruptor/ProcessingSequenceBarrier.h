@@ -1,6 +1,7 @@
 #pragma once
 
 #include <atomic>
+#include <vector>
 
 #include "Disruptor/ISequenceBarrier.h"
 #include "Disruptor/IWaitStrategy.h"

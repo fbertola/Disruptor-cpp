@@ -1,5 +1,7 @@
 #pragma once
 
+#include <memory>
+
 #include "Disruptor/IEventHandler.h"
 #include "Disruptor/ISequence.h"
 
